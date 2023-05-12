@@ -164,7 +164,7 @@ task WMGame "Web & Mobile Game" {
     chargeset back
     responsible dev1
     depends WMGame.tgdesign
-    task tBEd "Back End General Design" {
+    task tCBEd "Back End General Design" {
       effort 5d
       allocate dev1
     }
